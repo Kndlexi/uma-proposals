@@ -1,3 +1,19 @@
-# Umaproposals
-
-Description
+            ('2022-11-09 07:50'::timestamptz, '2022-11-09 07:51'::timestamptz, 'unknown', 'Crush', 'Resolved'),
+            ('2022-11-09 07:55'::timestamptz, '2022-11-09 07:56'::timestamptz, 'unknown', 'Crush', 'Resolved'), 
+            ('2022-11-09 07:55'::timestamptz, '2022-11-09 08:02'::timestamptz, 'unknown', 'Alex', 'Resolved'), 
+            ('2022-11-09 07:55'::timestamptz, '2022-11-09 07:57'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'), 
+            ('2022-11-09 07:55'::timestamptz, '2022-11-09 07:59'::timestamptz, 'unknown', 'Ponmile', 'Resolved'), 
+            ('2022-11-09 08:00'::timestamptz, '2022-11-09 08:02'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'), 
+            ('2022-11-09 08:00'::timestamptz, '2022-11-09 08:01'::timestamptz, 'unknown', 'Crush', 'Resolved'),
+            ('2022-11-09 08:05'::timestamptz, '2022-11-09 08:06'::timestamptz, 'unknown', 'Crush', 'Resolved'), 
+            ('2022-11-09 08:10'::timestamptz, '2022-11-09 08:19'::timestamptz, 'unknown', 'Alex', 'Resolved'), 
+            ('2022-11-09 08:10'::timestamptz, '2022-11-09 08:11'::timestamptz, 'unknown', 'Crush', 'Resolved'), 
+            ('2022-11-09 08:10'::timestamptz, '2022-11-09 08:25'::timestamptz, 'unknown', 'Mide', 'Resolved'), 
+            ('2022-11-09 08:10'::timestamptz, '2022-11-09 08:12'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
+            
+            
+            ('2022-11-09 07:55'::timestamptz, '2022-10-16 07:59'::timestamptz, 'unknown', 'Ponmile', 'Resolved'), 
+            ('2022-11-09 07:55'::timestamptz, '2022-10-16 07:59'::timestamptz, 'unknown', 'Ponmile', 'Resolved'), 
+            ('2022-11-09 07:55'::timestamptz, '2022-10-16 07:59'::timestamptz, 'unknown', 'Ponmile', 'Resolved'), 
+            ('2022-11-09 07:55'::timestamptz, '2022-10-16 07:59'::timestamptz, 'unknown', 'Ponmile', 'Resolved'), 
+            ('2022-11-09 07:55'::timestamptz, '2022-10-16 07:59'::timestamptz, 'unknown', 'Ponmile', 'Resolved'), 
