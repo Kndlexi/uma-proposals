@@ -42,9 +42,8 @@
             ('2022-11-11 07:10'::timestamptz, '2022-11-11 07:13'::timestamptz, 'unknown', 'Crush', 'Resolved'),  
             ('2022-11-11 16:02'::timestamptz, '2022-11-11 16:06'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),  
             ('2022-11-11 16:10'::timestamptz, '2022-11-11 16:11'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),  
-            
-            ('2022-11-12 15:25'::timestamptz, '2022-11-12 15:26'::timestamptz, 'unknown', 'Crush', 'Resolved'),  
-            ('2022-11-12 15:25'::timestamptz, '2022-11-12 15:26'::timestamptz, 'unknown', 'Crush', 'Resolved'),  
+            ('2022-11-12 05:55'::timestamptz, '2022-11-12 06:01'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),  
+            ('2022-11-12 10:20'::timestamptz, '2022-11-12 10:20'::timestamptz, 'unknown', 'Crush', 'Resolved'),  
             
             ('2022-11-13 15:25'::timestamptz, '2022-11-13 15:26'::timestamptz, 'unknown', 'Crush', 'Resolved'),  
             ('2022-11-13 15:25'::timestamptz, '2022-11-13 15:26'::timestamptz, 'unknown', 'Crush', 'Resolved'),
