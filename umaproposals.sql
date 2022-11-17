@@ -170,12 +170,14 @@ FROM
             ('2022-11-15 07:15'::timestamptz, '2022-11-15 07:19'::timestamptz, 'unknown', 'Alex', 'Resolved'), 
             ('2022-11-15 07:25'::timestamptz, '2022-11-15 07:28'::timestamptz, 'unknown', 'Alex', 'Resolved'),
             ('2022-11-15 15:05'::timestamptz, '2022-11-15 15:15'::timestamptz, 'unknown', 'Alex', 'Resolved'),
-            
-            ('2022-11-16 15:05'::timestamptz, '2022-11-16 15:15'::timestamptz, 'unknown', 'Alex', 'Resolved'),
-            ('2022-11-16 15:05'::timestamptz, '2022-11-16 15:15'::timestamptz, 'unknown', 'Alex', 'Resolved'),
-            ('2022-11-16 15:05'::timestamptz, '2022-11-16 15:15'::timestamptz, 'unknown', 'Alex', 'Resolved'),
-            ('2022-11-16 15:05'::timestamptz, '2022-11-16 15:15'::timestamptz, 'unknown', 'Alex', 'Resolved'),
-            ('2022-11-16 15:05'::timestamptz, '2022-11-16 15:15'::timestamptz, 'unknown', 'Alex', 'Resolved'),
-            ('2022-11-16 15:05'::timestamptz, '2022-11-16 15:15'::timestamptz, 'unknown', 'Alex', 'Resolved'),
-            ('2022-11-16 15:05'::timestamptz, '2022-11-16 15:15'::timestamptz, 'unknown', 'Alex', 'Resolved'),
-            ('2022-11-16 15:05'::timestamptz, '2022-11-16 15:15'::timestamptz, 'unknown', 'Alex', 'Resolved')
+            ('2022-11-16 05:05'::timestamptz, '2022-11-16 05:11'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
+            ('2022-11-16 05:05'::timestamptz, '2022-11-16 05:11'::timestamptz, 'unknown', 'Crush', 'Resolved'),
+            ('2022-11-16 07:55'::timestamptz, '2022-11-16 07:59'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
+            ('2022-11-16 15:20'::timestamptz, '2022-11-16 15:25'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
+            ('2022-11-16 19:45'::timestamptz, '2022-11-16 19:49'::timestamptz, 'unknown', 'Crush', 'Resolved'),
+            ('2022-11-16 21:10'::timestamptz, '2022-11-16 21:11'::timestamptz, 'unknown', 'Crush', 'Resolved'),
+            ('2022-11-16 22:00'::timestamptz, '2022-11-16 22:19'::timestamptz, 'unknown', 'Crush', 'Resolved'),
+            ('2022-11-16 22:05'::timestamptz, '2022-11-16 22:43'::timestamptz, 'unknown', 'Mide', 'Resolved'),
+            ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:43'::timestamptz, 'unknown', 'Mide', 'Resolved')
+            ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:42'::timestamptz, 'unknown', 'Alex', 'Resolved')
+            ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:41'::timestamptz, 'unknown', 'Manuel', 'Resolved')
