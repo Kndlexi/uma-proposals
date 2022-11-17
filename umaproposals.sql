@@ -179,6 +179,6 @@ FROM
             ('2022-11-16 21:10'::timestamptz, '2022-11-16 21:11'::timestamptz, 'unknown', 'Crush', 'Resolved'),
             ('2022-11-16 22:00'::timestamptz, '2022-11-16 22:19'::timestamptz, 'unknown', 'Crush', 'Resolved'),
             ('2022-11-16 22:05'::timestamptz, '2022-11-16 22:43'::timestamptz, 'unknown', 'Mide', 'Resolved'),
-            ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:43'::timestamptz, 'unknown', 'Mide', 'Resolved')
-            ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:42'::timestamptz, 'unknown', 'Alex', 'Resolved')
+            ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:43'::timestamptz, 'unknown', 'Mide', 'Resolved'),
+            ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:42'::timestamptz, 'unknown', 'Alex', 'Resolved'),
             ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:41'::timestamptz, 'unknown', 'Manuel', 'Resolved')
