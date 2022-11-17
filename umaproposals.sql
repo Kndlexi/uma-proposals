@@ -170,6 +170,7 @@ FROM
             ('2022-11-15 07:15'::timestamptz, '2022-11-15 07:19'::timestamptz, 'unknown', 'Alex', 'Resolved'), 
             ('2022-11-15 07:25'::timestamptz, '2022-11-15 07:28'::timestamptz, 'unknown', 'Alex', 'Resolved'),
             ('2022-11-15 15:05'::timestamptz, '2022-11-15 15:15'::timestamptz, 'unknown', 'Alex', 'Resolved'),
+            -- updated 
             ('2022-11-16 05:05'::timestamptz, '2022-11-16 05:11'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
             ('2022-11-16 05:05'::timestamptz, '2022-11-16 05:11'::timestamptz, 'unknown', 'Crush', 'Resolved'),
             ('2022-11-16 07:55'::timestamptz, '2022-11-16 07:59'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
