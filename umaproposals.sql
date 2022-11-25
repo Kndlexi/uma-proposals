@@ -182,3 +182,16 @@ FROM
             ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:43'::timestamptz, 'unknown', 'Mide', 'Resolved'),
             ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:42'::timestamptz, 'unknown', 'Alex', 'Resolved'),
             ('2022-11-16 22:10'::timestamptz, '2022-11-16 22:41'::timestamptz, 'unknown', 'Manuel', 'Resolved')
+            -- updated 
+            ('2022-11-17 14:20'::timestamptz, '2022-11-17 14:22'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
+            ('2022-11-17 14:25'::timestamptz, '2022-11-17 14:28'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
+            ('2022-11-17 14:35'::timestamptz, '2022-11-17 14:41'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
+            ('2022-11-17 21:05'::timestamptz, '2022-11-17 21:05'::timestamptz, 'skinny', 'unknown', 'Resolved'),
+            ('2022-11-17 21:25'::timestamptz, '2022-11-17 21:25'::timestamptz, 'skinny', 'unknown', 'Resolved'),
+            ('2022-11-17 21:25'::timestamptz, '2022-11-17 21:25'::timestamptz, 'skinny', 'unknown', 'Resolved'),
+            ('2022-11-18 04:25'::timestamptz, '2022-11-18 04:28'::timestamptz, 'unknown', 'Mide', 'Resolved'),
+            ('2022-11-18 18:15'::timestamptz, '2022-11-18 18:34'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
+            ('2022-11-18 20:35'::timestamptz, '2022-11-18 20:29'::timestamptz, 'unknown', 'Alex', 'Resolved'),
+            ('2022-11-20 01:05'::timestamptz, '2022-11-20 01:10'::timestamptz, 'unknown', 'Mide', 'Resolved'),
+            ('2022-11-20 21:10'::timestamptz, '2022-11-20 21:15'::timestamptz, 'unknown', 'Alex', 'Resolved'),
+            ('2022-11-21 23:05'::timestamptz, '2022-11-21 23:10'::timestamptz, 'unknown', 'Thatcryptogal', 'Resolved'),
